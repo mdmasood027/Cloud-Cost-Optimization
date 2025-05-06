@@ -53,8 +53,3 @@ Achieved a significant reduction in monthly cloud expenditures while maintaining
 
 ---
 
-### 🔗 Reference
-
-* 📖 [Cloud Cost Optimization: How to Reduce Your Cloud Bills?](https://medium.com/@chintan.j72/cloud-cost-optimization-how-to-reduce-your-cloud-bills-9869dd942732)
-
----
